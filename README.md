@@ -42,8 +42,9 @@ A project folder named:
 ```text
 statics_assignment
 ```
-
 was created.
+
+<img width="569" height="166" alt="Screenshot 2026-04-30 at 11 01 03 PM" src="https://github.com/user-attachments/assets/f7ad0e73-666a-4d06-865a-1ac717fae762" />
 
 Inside the folder, the following files were added:
 
@@ -53,6 +54,9 @@ sales_data.csv
 pca.py
 timeseries.py
 ```
+<img width="897" height="497" alt="Screenshot 2026-04-30 at 11 06 15 PM" src="https://github.com/user-attachments/assets/ed206ef5-cf27-4a09-816a-cd2edfa8c2d2" />
+
+
 
 ---
 
@@ -64,6 +68,9 @@ The following command was used:
 python3 -m venv venv
 ```
 
+<img width="869" height="18" alt="Screenshot 2026-05-03 at 3 17 15 PM" src="https://github.com/user-attachments/assets/aecb706a-67d9-444b-ace8-8763e2f7e07c" />
+
+
 ---
 
 ## Step 3: Activate Virtual Environment
@@ -72,6 +79,9 @@ python3 -m venv venv
 source venv/bin/activate
 ```
 
+<img width="937" height="17" alt="Screenshot 2026-05-03 at 3 17 22 PM" src="https://github.com/user-attachments/assets/5d2f19f0-65ab-4e33-86f8-7ab9eb34acd1" />
+
+
 ---
 
 ## Step 4: Install Required Libraries
@@ -79,6 +89,13 @@ source venv/bin/activate
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn statsmodels
 ```
+
+<img width="1043" height="535" alt="Screenshot 2026-05-03 at 3 17 35 PM" src="https://github.com/user-attachments/assets/e755190c-4a71-4585-8987-eb0a273e95a8" />
+
+<img width="1150" height="523" alt="Screenshot 2026-05-03 at 3 17 50 PM" src="https://github.com/user-attachments/assets/9f467442-8b3a-472d-a637-5ebfafda82ce" />
+
+<img width="1143" height="324" alt="Screenshot 2026-05-03 at 3 18 08 PM" src="https://github.com/user-attachments/assets/3e630613-f671-47fc-a3c4-df377fb2add1" />
+
 
 ---
 
