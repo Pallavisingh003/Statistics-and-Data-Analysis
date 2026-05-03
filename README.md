@@ -15,10 +15,10 @@
 
 
 
-Submitted By: Pallavi Singh
-Sap Id:500119176
-Roll no:R2142230249
-SCHOOL: SOCS
+* Submitted By: Pallavi Singh
+* Sap Id: 500119176
+* Roll no: R2142230249
+* BATCH: 02
 
 
 
