@@ -7,16 +7,7 @@ This assignment focuses on two important areas of data analysis:
 1. Principal Component Analysis (PCA) for dimensionality reduction and customer behavior analysis.
 2. Time-Series Analysis and Forecasting using ARIMA models.
 
-The implementation was performed using Python in Visual Studio Code (VS Code) on macOS.
-
-The libraries used include:
-
-* pandas
-* numpy
-* matplotlib
-* seaborn
-* scikit-learn
-* statsmodels
+PCA was used to reduce the complexity of customer purchase data and better understand customer behavior patterns. Time-Series Analysis was used to study sales data over a period of time and predict future sales using the ARIMA forecasting model. The complete implementation was done using Python in Visual Studio Code on macOS. Several Python libraries such as pandas, numpy, matplotlib, seaborn, scikit-learn, and statsmodels were used for data preprocessing, visualization, analysis, and forecasting.
 
 ---
 
