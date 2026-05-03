@@ -430,54 +430,8 @@ The graph showed:
 
 ---
 
-## Decomposition Results
-
-### Trend Component
-
-Shows long-term increase or decrease in sales.
-
-### Seasonal Component
-
-Shows repeating patterns during specific periods.
-
-### Residual Component
-
-Shows random noise not explained by trend or seasonality.
-
----
-
-## Forecast Graph
-
-The forecast graph compared:
-
-* Actual sales
-* Predicted future sales
-
-The ARIMA model successfully predicted future sales patterns.
-
----
-
 # Final Conclusion
 
-This assignment successfully demonstrated the implementation of:
-
-1. Principal Component Analysis (PCA)
-2. Time-Series Forecasting using ARIMA
-
-The PCA analysis reduced the dimensionality of customer purchase data and helped visualize customer behavior.
-
-The time-series analysis identified trends, seasonality, and future sales forecasts using statistical models.
-
-Python libraries such as pandas, scikit-learn, matplotlib, and statsmodels were effectively used for data preprocessing, visualization, and predictive analysis.
-
-The assignment provided practical understanding of advanced multivariate analysis and forecasting techniques.
+This assignment helped in understanding how data analysis and forecasting techniques work in real-life situations. Using PCA, the customer purchase data was simplified so that customer behavior and spending patterns could be understood more easily through graphs and visualizations. In the time-series part, sales data was analyzed to observe trends, seasonal changes, and future sales predictions using the ARIMA model. Different Python libraries like pandas, matplotlib, scikit-learn, and statsmodels were used to clean the data, create graphs, and build prediction models. Overall, this assignment gave practical knowledge of data analysis and forecasting in a simple and hands-on way.
 
 ---
-
-# References
-
-* Python Documentation
-* scikit-learn Documentation
-* statsmodels Documentation
-* matplotlib Documentation
-
