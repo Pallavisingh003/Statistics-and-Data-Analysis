@@ -8,13 +8,6 @@
 
 ### SEMESTER-06
 
-
-
-
-
-
-
-
 * Submitted By: Pallavi Singh
 * Sap Id: 500119176
 * Roll no: R2142230249
