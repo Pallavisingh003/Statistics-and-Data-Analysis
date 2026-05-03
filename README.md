@@ -265,6 +265,9 @@ Dataset file used:
 sales_data.csv
 ```
 
+<img width="947" height="604" alt="Screenshot 2026-04-30 at 11 10 51 PM" src="https://github.com/user-attachments/assets/abae0d36-aa02-46ff-857d-76065c2c9565" />
+
+
 ---
 
 # Steps Performed
@@ -388,6 +391,9 @@ MAE: 12.45
 RMSE: 18.32
 ```
 
+<img width="616" height="33" alt="Screenshot 2026-05-03 at 3 20 21 PM" src="https://github.com/user-attachments/assets/e51ca4b8-1988-4702-b6c1-388060433c00" />
+
+
 Interpretation:
 
 Lower MAE and RMSE values indicate better forecasting performance.
@@ -403,6 +409,11 @@ The graph showed:
 * Increasing sales trend over time
 * Seasonal patterns
 * Daily fluctuations
+
+<img width="633" height="534" alt="Screenshot 2026-05-03 at 3 20 27 PM" src="https://github.com/user-attachments/assets/13056e63-3008-4829-8786-a1cef2802b07" />
+
+<img width="637" height="532" alt="Screenshot 2026-05-03 at 3 20 35 PM" src="https://github.com/user-attachments/assets/76bee0fc-d84d-4b12-b4d9-8960306cd0a6" />
+
 
 ---
 
