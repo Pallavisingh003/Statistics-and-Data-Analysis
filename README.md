@@ -461,24 +461,6 @@ The assignment provided practical understanding of advanced multivariate analysi
 
 ---
 
-# Files Included in Submission
-
-```text
-statics_assignment/
-│
-├── pca.py
-├── timeseries.py
-├── Mall_Customers.csv
-├── sales_data.csv
-├── screenshots/
-│   ├── pca_graph.png
-│   ├── scatter_plot.png
-│   ├── decomposition.png
-│   └── forecast.png
-```
-
----
-
 # References
 
 * Python Documentation
