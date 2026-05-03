@@ -121,6 +121,10 @@ Dataset file used:
 Mall_Customers.csv
 ```
 
+<img width="394" height="307" alt="Screenshot 2026-04-30 at 11 06 55 PM" src="https://github.com/user-attachments/assets/900a672d-1fc5-47d9-9668-78f9d51c9184" />
+
+
+
 ---
 
 # Steps Performed
@@ -134,6 +138,9 @@ import pandas as pd
 
 data = pd.read_csv("Mall_Customers.csv")
 ```
+
+<img width="943" height="865" alt="Screenshot 2026-04-30 at 11 10 39 PM" src="https://github.com/user-attachments/assets/5b412cb9-b5da-4d52-8204-83c2865b83e3" />
+
 
 ---
 
@@ -190,6 +197,10 @@ Two graphs were generated:
 1. Explained Variance Graph
 2. 2D PCA Scatter Plot
 
+
+<img width="601" height="23" alt="Screenshot 2026-05-03 at 3 19 47 PM" src="https://github.com/user-attachments/assets/f7991fa0-7b78-4d5c-92ec-fba306d6a3b4" />
+
+
 ---
 
 # Output Obtained
@@ -208,6 +219,12 @@ Interpretation:
 * Principal Component 2 explains 12.8% variance.
 
 Together they capture most of the dataset information.
+
+<img width="639" height="533" alt="Screenshot 2026-05-03 at 3 19 35 PM" src="https://github.com/user-attachments/assets/334026cf-3449-400d-8939-0790ad5c8645" />
+
+
+<img width="632" height="536" alt="Screenshot 2026-05-03 at 3 19 59 PM" src="https://github.com/user-attachments/assets/787606fd-315a-4799-b23c-fb8a5bd03c44" />
+
 
 ---
 
