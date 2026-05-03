@@ -1,3 +1,29 @@
+SCHOOL OF COMPUTER SCIENCE
+
+University Of Petroleum
+And Studies.
+
+ 
+ <img width="584" height="157" alt="Screenshot 2026-05-03 at 3 58 08 PM" src="https://github.com/user-attachments/assets/ebe4991a-410a-4f20-93bf-0b4ad1066314" />
+
+
+SEMESTER-06
+
+
+
+
+
+
+
+
+Submitted By: Pallavi Singh
+Sap Id:500119176
+Roll no:R2142230249
+SCHOOL: SOCS
+
+
+
+
 # Statistics-and-Data-Analysis
 
 # Introduction
