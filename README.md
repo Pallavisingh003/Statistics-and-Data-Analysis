@@ -291,6 +291,9 @@ import pandas as pd
 data = pd.read_csv("sales_data.csv")
 ```
 
+<img width="266" height="44" alt="Screenshot 2026-05-03 at 3 46 29 PM" src="https://github.com/user-attachments/assets/35b30206-ebad-4a66-aff7-3ec007dec657" />
+
+
 ---
 
 ## Step 2: Convert Date Column
@@ -299,6 +302,9 @@ data = pd.read_csv("sales_data.csv")
 data['Date'] = pd.to_datetime(data['Date'])
 ```
 
+<img width="331" height="59" alt="Screenshot 2026-05-03 at 3 46 37 PM" src="https://github.com/user-attachments/assets/2e3eff40-6bfc-4dc6-be27-c60826bc3c47" />
+
+
 ---
 
 ## Step 3: Set Date as Index
@@ -306,6 +312,9 @@ data['Date'] = pd.to_datetime(data['Date'])
 ```python
 data.set_index('Date', inplace=True)
 ```
+
+<img width="285" height="41" alt="Screenshot 2026-05-03 at 3 46 53 PM" src="https://github.com/user-attachments/assets/07051344-9893-461f-871f-e858fba6976d" />
+
 
 ---
 
@@ -343,6 +352,8 @@ using:
 from statsmodels.tsa.seasonal import seasonal_decompose
 ```
 
+<img width="551" height="89" alt="Screenshot 2026-05-03 at 3 48 46 PM" src="https://github.com/user-attachments/assets/9fa2bcf3-6075-4222-bf77-ff02998a4bda" />
+
 ---
 
 ## Step 7: Perform ADF Test
@@ -353,16 +364,7 @@ The Augmented Dickey-Fuller test was performed.
 from statsmodels.tsa.stattools import adfuller
 ```
 
-Example output:
-
-```text
-ADF Statistic: -4.12
-p-value: 0.001
-```
-
-Interpretation:
-
-Since p-value < 0.05, the series is stationary.
+<img width="268" height="64" alt="Screenshot 2026-05-03 at 3 49 04 PM" src="https://github.com/user-attachments/assets/d7e524b4-7c31-4c07-9f18-9187ed5bf510" />
 
 ---
 
