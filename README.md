@@ -152,6 +152,8 @@ Missing values were replaced using the mean value.
 X = X.fillna(X.mean())
 ```
 
+<img width="482" height="39" alt="Screenshot 2026-05-03 at 3 43 31 PM" src="https://github.com/user-attachments/assets/0b478a46-1f13-4dc2-a27d-e03fe00614a7" />
+
 ---
 
 ## Step 3: Normalize Features
@@ -164,6 +166,9 @@ from sklearn.preprocessing import StandardScaler
 scaler = StandardScaler()
 X_scaled = scaler.fit_transform(X)
 ```
+
+<img width="352" height="56" alt="Screenshot 2026-05-03 at 3 43 58 PM" src="https://github.com/user-attachments/assets/2420b566-3907-46ee-a3cd-565577d54eeb" />
+
 
 ---
 
@@ -178,6 +183,9 @@ pca = PCA()
 pca_data = pca.fit_transform(X_scaled)
 ```
 
+<img width="367" height="67" alt="Screenshot 2026-05-03 at 3 44 08 PM" src="https://github.com/user-attachments/assets/916564dd-44e9-4245-b3f3-6543b9e3d8da" />
+
+
 ---
 
 ## Step 5: Determine Explained Variance
@@ -187,6 +195,9 @@ The explained variance ratio was calculated.
 ```python
 explained_variance = pca.explained_variance_ratio_
 ```
+
+<img width="420" height="163" alt="Screenshot 2026-05-03 at 3 44 28 PM" src="https://github.com/user-attachments/assets/a3459e2d-7f21-4eae-bdf7-86c765d70a69" />
+
 
 ---
 
